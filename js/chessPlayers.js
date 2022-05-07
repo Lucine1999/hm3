@@ -10,9 +10,6 @@ let finishedMatches = [
     [2, 0],
 ];
 
-
-
-
 const solution = (playersCount, matches) => {
     let restMatches = [];
 
